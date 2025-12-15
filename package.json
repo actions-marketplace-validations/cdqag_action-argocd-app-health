@@ -1,5 +1,5 @@
 {
-  "name": "action-log-parser",
+  "name": "action-argocd-app-health",
   "version": "0.1.0",
   "description": "Action Log Parser",
   "main": "",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cdqag/action-log-parser.git"
+    "url": "git+ssh://git@github.com/cdqag/action-argocd-app-health.git"
   },
   "keywords": [
     "action",
@@ -21,9 +21,9 @@
   "author": "Marek Sierociński <marek.sierocinski@cdq.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/cdqag/action-log-parser/issues"
+    "url": "https://github.com/cdqag/action-argocd-app-health/issues"
   },
-  "homepage": "https://github.com/cdqag/action-log-parser#readme",
+  "homepage": "https://github.com/cdqag/action-argocd-app-health#readme",
   "dependencies": {
     "@actions/core": "^1.11.1"
   },
